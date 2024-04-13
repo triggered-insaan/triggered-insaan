@@ -1,10 +1,10 @@
-# Hi there! I'm Anshuman Singh 👋
+# Hi there! I'm Triggered Insaan👋
 
 ## Introduction
 I'm a passionate developer, currently a beginner, but with big ambitions to become a Flutter Developer and Python Machine learning Developer.
 
 ## GitHub Stats
-![Anshuman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=triggered-insaan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=triggered-insaan&show_icons=true&theme=radical)
 
 <!-- Social Media -->
 <!-- [![Linkedin: anshumansingh](https://img.shields.io/badge/-anshumansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshumansingh/)](https://www.linkedin.com/in/anshumansingh/) -->
